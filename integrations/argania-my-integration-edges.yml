@@ -1,0 +1,18 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/argania-my/integrations
+- https://zapier.com/apps/avant/integrations
+- https://n8n.io/integrations/argania-my/
+- https://composio.dev/toolkits/argania-my
+- https://monid.ai/tools/argania-my
+checked:
+- https://composio.dev/toolkits/argania-my
+- https://monid.ai/tools/argania-my
+- https://n8n.io/integrations/argania-my/
+- https://zapier.com/apps/argania-my/integrations
+- https://zapier.com/apps/avant/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
